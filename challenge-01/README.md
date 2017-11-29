@@ -5,7 +5,7 @@
 var myVar;
 
 // Após declarada, atribua o valor 10 à variável `myvar`.
-?
+myVar = 10;
 
 // Declare uma nova variável chamada `soma`, e adicione uma instrução somando os valores 15 e 8.
 ?
